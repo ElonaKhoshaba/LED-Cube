@@ -19,8 +19,8 @@ void loop() {
   delay(time);
   flickerOn();
   delay(time);
- turnEverythingOn();
- delay(time);
+  turnEverythingOn();
+  delay(time);
 
   turnOnAndOffAllByLayerUpAndDownNotTimed();
   delay(time);
@@ -29,7 +29,7 @@ void loop() {
   spiralInAndOut();
   delay(time);
   turnOnAndOffAllByColumnSideways();
- delay(time);
+  delay(time);
 
  //oneByOne();
  //delay(time);
